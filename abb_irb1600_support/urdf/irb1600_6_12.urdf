@@ -9,7 +9,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/base_link.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/base_link.dae"/>
       </geometry>
       <material name="abb_orange">
         <color rgba="1 0.43 0 1"/>
@@ -28,7 +28,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_1.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_1.dae"/>
       </geometry>
       <material name="abb_orange"/>
     </visual>
@@ -44,7 +44,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_2.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_2.dae"/>
       </geometry>
       <material name="abb_orange"/>
     </visual>
@@ -60,7 +60,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_3.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_3.dae"/>
       </geometry>
       <material name="abb_orange"/>
     </visual>
@@ -76,7 +76,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_4.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_4.dae"/>
       </geometry>
       <material name="abb_orange"/>
     </visual>
@@ -92,7 +92,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_5.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_5.dae"/>
       </geometry>
       <material name="abb_orange"/>
     </visual>
@@ -108,7 +108,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_6.stl"/>
+        <mesh filename="package://abb_irb1600_support/meshes/irb1600_6_12/visual/link_6.dae"/>
       </geometry>
       <material name="abb_orange"/>
     </visual>
@@ -172,3 +172,4 @@
   </joint>
   <!-- end of joint list -->
 </robot>
+
